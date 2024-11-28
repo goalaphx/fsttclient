@@ -30,7 +30,7 @@
 <div class="container mt-5">
   <h1 class="mb-4 text-center">Lignes de Commande pour Commande #${idCommande}</h1>
   <div class="d-flex justify-content-between align-items-center mb-3">
-    <a href="lignecommande?action=new&idCommande=${idCommande}" class="btn btn-primary">Ajouter un Produit</a>
+    <a href="lignecommande?action=new&idCommande=${idCommande}" class="btn btn-primary">Ajouter des Produits</a>
     <a href="commande?action=list" class="btn btn-secondary">Retour à la Liste des Commandes</a>
   </div>
   <table class="table table-hover table-bordered">
